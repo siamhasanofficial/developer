@@ -6,10 +6,10 @@ h1{
 
     font-size: 50px;
 }
-.name{
+.darkgolden{
     color: darkgoldenrod;
 }
-section{
+.flexibil-container{
 
     display: flex;
     margin-bottom: 150px;
