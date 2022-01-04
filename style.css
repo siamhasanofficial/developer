@@ -64,19 +64,18 @@ background-position: left;
 }
 
 #developer-full{
-    border-left: 7px rgb(236, 222, 220);
-    background-image: linear-gradient(orange,tomato);
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(54, 5, 233),rgb(245, 240, 239));
     border-image-slice: 1;
 
 
 }
 #baby-developer{
 
-    border-left: 7px rgb(240, 235, 234);
-    background-image: linear-gradient(orange,tomato);
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(6, 48, 236),rgb(229, 227, 226));
     border-image-slice: 1;
 
 }
 footer p{
     text-align: center;
-}
